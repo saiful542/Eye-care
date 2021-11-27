@@ -1,0 +1,74 @@
+[
+    {
+        "place": "Paris,France",
+        "hotel": "Hotel Le Chat Noir",
+        "price": "7-day trip is $1,450 for a solo",
+        "picture": "https://i.ibb.co/FW9nktz/paris.jpg",
+        "guide": "Roxanne",
+        "email": "roxannecarroll@netbook.com",
+        "description": "The French capital is one of the most romantic cities in Europe and one of the world's most visited cities.Mostly famous for The Eiffle Tower.It is a beautiful and cultural city, very walkable, with great sights, and it has been a source of inspiration for many writers, artists, and filmmakers."
+    },
+    {
+        "place": "Bali,Indonesia",
+        "hotel": "Hotel Sea Heaven",
+        "price": "Average USD 70-150 per night",
+        "picture": "https://i.ibb.co/TmjfV2b/bali.jpg",
+        "guide": "Marcia",
+        "email": "marciacarroll@netbook.com",
+        "description": "Beyond stunning beaches and magical temples, Bali has virtually every kind of natural beauty. Glorious mountainous areas with lush greenery, scenic lakes, gorgeous waterfalls, iconic rice fields, flower gardens, gushing sacred..."
+    },
+    {
+        "place": "Santorini,Greece",
+        "hotel": "Rocabella Santorini",
+        "price": "$57 to $157 per night",
+        "picture": "https://i.ibb.co/J5fVYgs/santorini.jpg",
+        "guide": "Haley",
+        "email": "haleycarroll@netbook.com",
+        "description": "Santorini is the best romantic holiday destination all over the world. Luxury whitewashed houses perched on caldera cliffs with extraordinary views to Aegean Sea, mesmerizing sunrises and sunsets and a wide range of romantic activities..."
+    },
+    {
+        "place": "Cappadocia,Turkey",
+        "hotel":"Argos Inn",
+        "price": "$44 to $140 per night",
+        "picture": "https://i.ibb.co/Nmf5CF4/turkey.jpg",
+        "guide": "Dawn",
+        "email": "dawncarroll@netbook.com",
+        "description": "Cappadocia is a land famous for its distinctive rock formation, historical heritage, and scenic hot air balloon trips. Sitting in Central Anatolia, this historical region attracts crowds of tourists from all over the world."
+    },
+    {
+        "place": "Agra,India",
+        "hotel":"Hotel Marwari",
+        "price": "8-10$ per night",
+        "picture": "https://i.ibb.co/RbbN4tS/Agra.jpg",
+        "guide": "Mayra",
+        "email": "mayracarroll@netbook.com",
+        "description": "It has ancient history and modern residences together which attracts several global tourists. The Taj Mahal is one of the top reasons to visit Agra. But this city is houses architectural monuments such as Agra Fort and a small city..."
+    },
+    {
+        "place": "Niagra falls,USA & Canada",
+        "hotel":"The Peninsula",
+        "price": "36$ per night",
+        "picture": "https://i.ibb.co/3rH4N0C/niagra-falls.jpg",
+        "guide": "Bray",
+        "email": "braycarroll@netbook.com",
+        "description": "Niagra falls,USA & Canada The number one reason to visit Niagara Falls is pretty obviousThe three falls combine to produce the largest water flow rate of any waterfall in the world. This stunning display of nature pulls in 30 million tourists every single year."
+    },
+    {
+        "place": "Machu picchu,Peru",
+        "hotel":"Tupac Hostle",
+        "price": "70$ per night",
+        "picture": "https://i.ibb.co/gZ683gd/Peru.jpg",
+        "guide": "Finley",
+        "email": "finleycarroll@netbook.com",
+        "description": "Machu Picchu was built as an estate for the great Inca Pachacuti. It is also considered a pilgrimage site that Incas would take to pay respects to the great Inca leader. The pilgrimage taken to the site is the route now called the Inca Trail."
+    },
+    {
+        "place": "Maldives",
+        "hotel":"The sea view",
+        "price": "50-70$ per day",
+        "picture": "https://i.ibb.co/qd0s8Yn/maldives.jpg",
+        "guide": "Parsons",
+        "email": "parsonscarroll@netbook.com",
+        "description": "The point of the Maldives is that it is not a single large island but is, instead, a collection of thousands of tiny coral islands. ... Each island is surrounded by a lagoon of shallow water (though the Indian Ocean, with its deep blue water, lies beyond)."
+    }
+]
